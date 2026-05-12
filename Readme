@@ -1,0 +1,24 @@
+# Team Task Manager
+
+A full-stack web app for managing projects and tasks with role-based access.
+
+## ✨ Features
+- JWT authentication
+- Admin & Member roles
+- Project & Task CRUD
+- Dashboard with stats
+- Responsive UI with Tailwind
+
+## 🛠 Tech Stack
+- Frontend: React + Vite + Tailwind CSS
+- Backend: Node.js + Express.js
+- Database: MongoDB + Mongoose
+- Auth: JWT + bcrypt
+- Deployment: Railway
+
+## ⚙️ Setup
+1. Clone repo
+2. Install dependencies in `backend` and `frontend`
+3. Create `.env` files
+
+### Backend `.env`
